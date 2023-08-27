@@ -65,5 +65,6 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Expected result:**					
 1. After entering the correct code** (return a + b;)** that completes the initial code provided in the editor, by pressing the "Verify" button, the following specific results should appear in the results box:
-  1.1. _The code compiles._
+   
+  1.1. _The code compiles._   
   1.2. _The code passed the test._
