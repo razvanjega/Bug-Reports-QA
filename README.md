@@ -16,10 +16,10 @@ Below are some but report samples that I wrote while working on previous project
 ----------
 
 **Pre-conditions:**					
-1. The [GOIT]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website ) must be open in the browser.
+1. The [**GOIT**]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website ) must be open in the browser.
 				
 **Steps to reproduce:**				
-1. Access the [GOIT]([url](https://tinyurl.com/GOIT-Website)) ( https://tinyurl.com/GOIT-Website ) website.
+1. Access the [**GOIT**]([url](https://tinyurl.com/GOIT-Website)) website( https://tinyurl.com/GOIT-Website ).
 2. Check the location of the "**RO-EN**" switch in the website header.
 3. Check the location of the **GOIT Logo** in the website header.
 
@@ -49,10 +49,10 @@ Below are some but report samples that I wrote while working on previous project
 ----------
 
 **Pre-conditions:**					
-1. The [GOIT]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website ) must be open in the browser.
+1. The [**GOIT**]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website ) must be open in the browser.
 				
 **Steps to reproduce:**				
-1. Access the [GOIT]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website ).
+1. Access the [**GOIT**]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website ).
 2. Access the question **2/10** from the navigation menu "**Questions**" located in the middle of the website's header.
 3. Entering the correct line of code (**"return a +b;")** in the displayed editor on the line "4".
 4. Click on the "**Verify Button**" which is located under the "**Editor**" displayed on the page.
