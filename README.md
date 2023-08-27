@@ -16,7 +16,7 @@ Below are some test case samples that I wrote while working on previous projects
 ----------
 
 **Pre-conditions:**					
-1. The [GOIT]([url](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) website must be open in the browser.
+1. The [GOIT]([GOIT](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) website must be open in the browser.
 				
 **Steps to reproduce:**				
 1. Access [GOIT]([url](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) main page link.
