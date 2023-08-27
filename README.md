@@ -18,7 +18,7 @@ Below are some test case samples that I wrote while working on previous projects
 **Pre-conditions:**					
 1. The [GOIT]([url](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) website must be open in the browser.
 				
-**Steps to reproduce:	**				
+**Steps to reproduce:**				
 1. Access [GOIT]([url](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) main page link.
 2. Check the location of the "**RO-EN**" switch in the website header.
 3. Check the location of the **GOIT Logo** in the website header.
@@ -51,7 +51,7 @@ Below are some test case samples that I wrote while working on previous projects
 **Pre-conditions:**					
 1. The [GOIT]([url](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) website must be open in the browser.
 				
-**Steps to reproduce:	**				
+**Steps to reproduce:**				
 1. Access [GOIT]([url](https://java-test-qa.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&language=ro)) website.
 2. Access question **2/10** from the navigation menu "**Questions**" located in the header of the website.
 3. Entering the correct line of code (**"return a +b;")** in the displayed editor on the line "4".
