@@ -1,5 +1,5 @@
 # Bug Report Samples
-Below are some test case samples that I wrote while working on previous projects.
+Below are some but report samples that I wrote while working on previous projects.
 
 ----------
 **[BUG REPORT ID: #1]**
