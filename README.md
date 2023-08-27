@@ -16,10 +16,10 @@ Below are some test case samples that I wrote while working on previous projects
 ----------
 
 **Pre-conditions:**					
-1. The [GOIT]([url](https://tinyurl.com/GOIT-Website)) website must be open in the browser.
+1. The [GOIT]([url](https://tinyurl.com/GOIT-Website)) website ( https://tinyurl.com/GOIT-Website )must be open in the browser.
 				
 **Steps to reproduce:**				
-1. Access [GOIT]([url](https://tinyurl.com/GOIT-Website)) main page link.
+1. Access [GOIT]([url](https://tinyurl.com/GOIT-Website)) ( https://tinyurl.com/GOIT-Website ) main page link.
 2. Check the location of the "**RO-EN**" switch in the website header.
 3. Check the location of the **GOIT Logo** in the website header.
 
