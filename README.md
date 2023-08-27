@@ -2,7 +2,7 @@
 Below are some test case samples that I wrote while working on previous projects.
 
 ----------
-[BUG REPORT ID: #1]
+**[BUG REPORT ID: #1]**
 
 **Reporter:** Razvan	| **Assignee**:	Developer	| **Status**:	In Work | **Severity:**	Major | **Priority:**	High
 **Browser:**	Chrome | **OS:**	Windows	OS | **Version:**	10
@@ -35,7 +35,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 ----------
 
-[BUG REPORT ID: #2]
+**[BUG REPORT ID: #2]**
 
 **Reporter:** Razvan	| **Assignee**:	Developer	| **Status**:	In Work | **Severity:**	Major | **Priority:**	High
 **Browser:**	Chrome | **OS:**	Windows	OS | **Version:**	10
